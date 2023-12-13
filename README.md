@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhayspatil16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d-2NH5UWYzGgznz97ivUOCJyA87_JWfY/view?usp=drivesdk](https://drive.google.com/file/d/1d-2NH5UWYzGgznz97ivUOCJyA87_JWfY/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d-2NH5UWYzGgznz97ivUOCJyA87_JWfY/view?usp=drivesdk](https://drive.google.com/file/d/1fVlYlfUwJzViJRgYr_gY0cRoFz9OLPAI/view?usp=drivesdk)](https://drive.google.com/file/d/1d-2NH5UWYzGgznz97ivUOCJyA87_JWfY/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
