@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilabhay0616&label=Profile%20views&color=0e75b6&style=flat" alt="patilabhay0616" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abhaypatil2003" target="blank"><img src="https://img.shields.io/twitter/follow/@abhaypatil2003?logo=twitter&style=for-the-badge" alt="@abhaypatil2003" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abhaypatil2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhaypatil2003?logo=twitter&style=for-the-badge" alt="abhaypatil2003" /></a> </p>
 
 - 🌱 I’m currently learning **Machine learning algorithms,React,Nodejs.,MongodB**
 
