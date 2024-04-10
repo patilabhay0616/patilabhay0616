@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhaypatil2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhaypatil2003?logo=twitter&style=for-the-badge" alt="abhaypatil2003" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning algorithms,React,Nodejs.,MongodB**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m Currently working on **Complete Machine Learning & Data Science Bootcamp 2023**
-
-- 🤝 I’m looking for help with **Web development**
+- 🤝 I’m looking for help for **Data Science**
 
 - 📫 How to reach me **abhayspatil16@gmail.com**
 
